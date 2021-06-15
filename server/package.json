@@ -18,7 +18,7 @@
     "googleapis": "^67.1.1",
     "handlebars": "^4.7.6",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.11.8",
+    "mongoose": "^5.12.13",
     "node-cron": "^2.0.3",
     "nodemailer": "^6.4.17",
     "nodemon": "^2.0.6",
